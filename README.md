@@ -1,6 +1,6 @@
 # Fuel-Dispense-Prediction
 Predicted various features based on known data using Supervised Machine Learning Algorithms.
-The Goal is to create an Ensemble Model using Regression or Classification Algorithms which can accurately predict the required data, The tasks involved are :
+The Goal is to create an Esemble Model using Regression or Classification Algorithms which can accurately predict the required data, The tasks involved are :
 Download the CSV File which contains the Dispense Log.
 Visualization of the Data using Charts or Graphs.
 Preprocess the Data  i.e Removing the Space or Null Values if any.
